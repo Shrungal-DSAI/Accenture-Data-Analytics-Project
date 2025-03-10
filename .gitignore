@@ -1,0 +1,14 @@
+# Ignore Python cache & environment files
+__pycache__/
+*.pyc
+*.pyo
+*.env
+venv/
+ 
+# Ignore dataset and large files (modify as needed)
+data/*.csv
+reports/*.pdf
+
+# Ignore system files
+.DS_Store
+Thumbs.db
