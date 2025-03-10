@@ -29,8 +29,8 @@ Social Buzz, a rapidly growing unicorn company, generates massive amounts of uns
   📊 The **animal category alone received 1,897 reactions**, indicating strong engagement in pet-related content.  
 
 ### 📸 Visual Insights
-  
-![Popularity%](images/Popularity%25.png)  
+![Popularity Percentage](images/Popularity%25.png)  
+![Top 5 Categories](images/Top5%20categories.png)  
 
 ---
 
