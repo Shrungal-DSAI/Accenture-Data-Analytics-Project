@@ -30,7 +30,7 @@ Social Buzz, a rapidly growing unicorn company, generates massive amounts of uns
 
 ### 📸 Visual Insights
   
-![Top 5 Categories](images/Top5%20categories.png)  
+![Popularity Percentage](images/Popularity%25.png)  
 
 ---
 
