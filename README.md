@@ -20,7 +20,7 @@ Social Buzz, a rapidly growing unicorn company, generates massive amounts of uns
   1️⃣ **Animals** – *Total Score: 74,965* 🐾  
      🔹 High user engagement due to emotional connection with animal-related content.  
   2️⃣ **Science** – *Total Score: 71,168* 🧬  
-     🔹 Increased interest in educational content, particularly in technology and environmental science.  
+     🔹 Increased interest in educational content, particularly in environmental science.  
   3️⃣ **Healthy Eating** – *Total Score: 69,339* 🥗  
      🔹 Rising awareness of health and wellness, driving high engagement.  
 
@@ -29,7 +29,7 @@ Social Buzz, a rapidly growing unicorn company, generates massive amounts of uns
   📊 The **animal category alone received 1,897 reactions**, indicating strong engagement in pet-related content.  
 
 ### 📸 Visual Insights
-![Popularity Percentage](images/Popularity%25.png)  
+  
 ![Top 5 Categories](images/Top5%20categories.png)  
 
 ---
@@ -60,6 +60,13 @@ Social Buzz, a rapidly growing unicorn company, generates massive amounts of uns
 ## 🤝 Conclusion
 This project successfully identified **key engagement drivers** and **content trends**, providing Social Buzz with a **data-driven approach** to optimize their platform. With Accenture's expertise, these insights can be scaled in real-time to enhance **user experience and business growth**.  
 
-💡 *Want to leverage data analytics for your business? Let’s connect!*  
+📢 **Got Ideas?** Feel free to contribute! Submit a **PR or Issue** 🚀  
 
 ---
+
+## ✨ Author
+👤 **Shrungal Kulkarni**  
+💌 Email: [Your Email]  
+🔗 GitHub: [Shrungal-DSAI](https://github.com/Shrungal-DSAI)  
+
+🌟 If you found this project helpful, please consider giving it a star! 🌟
