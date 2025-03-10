@@ -65,7 +65,6 @@ This project successfully identified **key engagement drivers** and **content tr
 
 ## ✨ Author
 👤 **Shrungal Kulkarni**  
-💌 Email: [Your Email]  
 🔗 GitHub: [Shrungal-DSAI](https://github.com/Shrungal-DSAI)  
 
 🌟 If you found this project helpful, please consider giving it a star! 🌟
